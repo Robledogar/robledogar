@@ -1,8 +1,3 @@
-### ESTUDIANTE AUTODIDACTA
-
-Con 41 años descubrí la importancia de la programación y desde entonces dedico gran parte de mi tiempo libre a esa nueva "gran pasión"
-
-Trabajo día a día para adquirir nuevos conocimientos que me permitan desarrollar mejores proyectos.
 
 ## TECNOLOGIAS:
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
