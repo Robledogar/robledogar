@@ -1,6 +1,6 @@
 
 ## KNOWLEDGE:
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
+
 
 </br>
 
@@ -8,9 +8,8 @@ https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
 
 
 ## FOLLOW ME:
-[![Twitter](https://img.shields.io/badge/Twitter-@JL_Roble-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/JL_Roble)
+![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20me&style=social&url=https%3A%2F%2Ftwitter.com%2FJL_Roble)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose_Luís_Robledo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jose-luis-robledo)
 
 
 
