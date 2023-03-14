@@ -1,6 +1,6 @@
 
 ## KNOWLEDGE:
-[![HTML5](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
+[![HTML5](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)]()
 
 </br>
 
