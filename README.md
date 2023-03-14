@@ -1,6 +1,6 @@
 
 ## KNOWLEDGE:
-(https://img.shields.io/static/v1?label=<LABEL>HTML=<MESSAGE>&color=<BLUE>)
+https://img.shields.io/static/v1?label=<LABEL>HTML=<MESSAGE>&color=<BLUE>
 
 
 </br>
