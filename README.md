@@ -13,6 +13,7 @@
 
 ## FOLLOW ME:
 ![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20me&style=social&url=https%3A%2F%2Ftwitter.com%2FJL_Roble)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose_Luís_Robledo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jose-luis-robledo-587062146/)
 
 
 
