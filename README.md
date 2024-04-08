@@ -16,8 +16,6 @@
 </br>
 
 ## CURRENTLY LEARNING
-- [Laravel](https://laravel.com/)
-
 [![LARAVEL](https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white&labelColor=101010)]()
 
 
