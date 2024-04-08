@@ -8,6 +8,10 @@
 </br>
 [![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)]()
 </br>
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white&labelColor=101010)]()
+</br>
+[![LARAVEL](https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white&labelColor=101010)]()
+
 
 
 
