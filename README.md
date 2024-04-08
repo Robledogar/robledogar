@@ -4,6 +4,8 @@
 </br>
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
 </br>
+[![TAILWIND CSS](https://img.shields.io/badge/TAILWIND%20CSS-06B6D4?style=for-the-badge&logo=Tailwind-CSS&logoColor=white&labelColor=101010)]()
+</br>
 [![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)]()
 </br>
 [![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)]()
