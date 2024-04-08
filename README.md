@@ -10,6 +10,8 @@
 </br>
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white&labelColor=101010)]()
 </br>
+[![SQL](https://img.shields.io/badge/SQL-003C71?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=101010)]()
+</br>
 [![LARAVEL](https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white&labelColor=101010)]()
 
 
